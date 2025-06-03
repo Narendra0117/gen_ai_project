@@ -17,7 +17,7 @@ faiss-cpu
 ipykernel
 python-dotenv
 
-langchain==0.1.14
+
 arxiv
 wikipedia
 duckduckgo-search
