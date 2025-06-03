@@ -16,8 +16,7 @@ pypdf
 faiss-cpu
 ipykernel
 python-dotenv
-transformers==4.36.2
-sentence-transformers==2.2.2
+
 langchain==0.1.14
 arxiv
 wikipedia
